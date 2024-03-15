@@ -18,6 +18,7 @@
 - 9rb/rchain
 - aaronp/franz
 - abdolence/slack-morphism
+- actian/scala-uri
 - adzerk/apso
 - afsalthaj/safe-string-interpolation
 - agourlay/cornichon
