@@ -410,6 +410,7 @@
 - IBM/diesel-json
 - Idealiste-cz/ideal-voting-backend
 - igor-vovk/cats-effect-simple-di
+- igor-vovk/connect-rpc-scala
 - ikhoon/scalapb-reactor
 - INCATools/boomer
 - INCATools/relation-graph
