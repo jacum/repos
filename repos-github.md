@@ -1196,6 +1196,7 @@
 - yoshiyoshifujii/reactive-snowflake
 - yoshiyoshifujii/sbt-jig
 - yurique/embedded-files
+- yurizhuravel/kitty
 - zainab-ali/aquascape
 - zeal18/zio-mongodb
 - zengularity/benji
