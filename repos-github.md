@@ -836,6 +836,7 @@
 - RustedBones/pekko-http-thrift
 - RustedBones/scout
 - RustedBones/taxonomy
+- s5bug/squirrel-explorer
 - sageserpent-open/americium
 - sageserpent-open/kineticMerge
 - sagifogel/Proptics
