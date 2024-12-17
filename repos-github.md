@@ -336,6 +336,7 @@
 - felher/catenary
 - felher/laminouter
 - felher/sainte-lague
+- felher/jvm-only.g8
 - felher/scalajs-only.g8
 - felipebonezi/play-ground
 - finagle/finagle-mysql-shapes
