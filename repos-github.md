@@ -698,11 +698,11 @@
 - Philippus/between
 - Philippus/bump
 - Philippus/elastic4s
+- Philippus/elastic4s:series/7.x
 - Philippus/emoji-clock
 - Philippus/gpc-tree
 - Philippus/habitat.g8
 - Philippus/julius
-- Philippus/julius-iii
 - Philippus/osita
 - Philippus/pureconfig-javanet
 - Philippus/sbt-dotenv
