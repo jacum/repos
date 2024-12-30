@@ -223,6 +223,7 @@
 - datadog4s/datadog4s
 - datadog4s/datadog4s:series/cats-effect2
 - dataswift/HAT2.0
+- dataunitylab/fuzzy-sets
 - dataunitylab/jsonoid-discovery
 - data-tools/big-data-types
 - davegurnell/bridges
