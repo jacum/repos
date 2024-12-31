@@ -1,7 +1,6 @@
 - 2m/authors
 - 2m/ciris-hocon
 - 2m/citywasp-api
-- 2m/history-of-fishing
 - 2m/kabrioletas
 - 2m/polyfact
 - 2m/sonatype-stats
@@ -79,7 +78,6 @@
 - Atry/scalajs-all-in-one-template
 - Atry/XmlExtractor.scala
 - augustjune/canoe
-- austinwarrren/til
 - av8data/add_transformers
 - avast/grpc-json-bridge
 - avast/scala-server-toolkit
@@ -133,7 +131,6 @@
 - butcherless/incubator
 - butcherless/scala
 - butcherless/tapir-learn
-- caesarsdigital/trace4cats-zio-extras
 - carlosedp/mill-aliases
 - carlosedp/mill-docker-nativeimage
 - carlosedp/riscvassembler
@@ -229,13 +226,11 @@
 - davegurnell/bridges
 - davegurnell/unindent
 - DavidGregory084/mill-tpolecat
-- deal-engine/finagle-postgres
 - deanwampler/programming-scala-book-code-examples
 - debasishg/tradeio
 - debasishg/tradeioZ2
 - debiki/talkyard
 - delimobil/cabbit
-- delimobil/cabbit-example
 - DFiantHDL/DFHDL
 - dieproht/matr
 - dieproht/molly
@@ -388,8 +383,6 @@
 - grouzen/zio-apache-parquet
 - guardrail-dev/guardrail
 - guardrail-dev/guardrail-maven-plugin
-- guardrail-dev/guardrail-sample-gradle-springmvc
-- guardrail-dev/guardrail-sample-sbt-akkahttp
 - guardrail-dev/guardrail-sample-sbt-http4s
 - guardrail-dev/sbt-guardrail
 - gumdrop/quizleague
@@ -421,7 +414,6 @@
 - ing-bank/baker
 - inoio/solrs
 - intracer/scalawiki
-- iRevive/fmq
 - iRevive/sbt-integration-env
 - IronCoreLabs/cats-scalatest
 - IronCoreLabs/recrypt
@@ -473,7 +465,6 @@
 - Karasiq/sbt-scalajs-bundler
 - Karasiq/scalajs-bootstrap
 - Karasiq/scalajs-videojs
-- Karasiq/shadowcloud
 - Karasiq/webm-tv
 - kcrypt/scala-biginteger
 - kcrypt/scala-blake3
@@ -604,7 +595,6 @@
 - mockito/mockito-scala
 - molarmanful/sclin
 - monix/monix-bio
-- monix/monix-connect
 - monix/monix:series/3.x
 - monix/monix:series/4.x
 - monix/newtypes
@@ -667,7 +657,6 @@
 - NthPortal/spaghetti
 - NthPortal/v
 - ocadotechnology/pass4s
-- odenzo/scala3-template
 - OpenOlitor/openolitor-server
 - openzipkin/zipkin-finagle
 - open-electrons/open-electrons-templates
@@ -686,7 +675,6 @@
 - peregin/velocorner.com
 - PerformanceIMMO/pg-event-store
 - peterstorm/scala3-template
-- phdoerfler/beegment
 - phdoerfler/enni
 - phdoerfler/latex-scanner
 - phelps-sg/play-hmac-signatures
@@ -1112,7 +1100,6 @@
 - twitter/chill
 - typelevel/doobie
 - typelevel/fabric
-- typeness/spray-json-refined
 - ua-parser/uap-scala
 - UdashFramework/udash-core
 - UKHomeOffice/bluebus
