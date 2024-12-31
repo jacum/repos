@@ -97,8 +97,6 @@ jobs:
 
           echo "$LINKS"
           LINKS="${LINKS//'%'/'%25'}"
-          LINKS="${LINKS//$'\n'/'%0A'}"
-          LINKS="${LINKS//$'\r'/'%0D'}"
           echo "LINKS=${LINKS}" >> $GITHUB_OUTPUT
       - name: found diff
         id: non-empty
