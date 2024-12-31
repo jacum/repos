@@ -373,6 +373,8 @@
 - gfc-collective/gfc-aws-s3
 - gfc-collective/gfc-collection
 - gfc-collective/gfc-concurrent
+- gfc-collective/gfc-guava
+- gfc-collective/gfc-logging
 - gfc-collective/gfc-time
 - gfc-collective/gfc-timeuuid
 - gfc-collective/gfc-util
