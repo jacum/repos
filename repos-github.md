@@ -441,6 +441,7 @@
 - jd557/rokrok
 - jd557/spaeti
 - Jelly-RDF/jelly-jvm
+- jirihausner/zio-schema-circe
 - joan38/kubernetes-client
 - joan38/mill-git
 - joan38/mill-scalafix
