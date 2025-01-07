@@ -796,6 +796,7 @@
 - Ragazoor/typed-future
 - rayrobdod/string-context-parser-combinator
 - rcmartins/blinky
+- reactivecore/kreuzberg
 - ReactiveMongo/Play-ReactiveMongo
 - ReactiveMongo/ReactiveMongo
 - ReactiveMongo/ReactiveMongo-BSON
