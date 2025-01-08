@@ -23,6 +23,7 @@
 - akka/akka-http
 - akka/akka-management
 - akka/akka-persistence-cassandra
+- akka/akka-persistence-dynamodb
 - akka/akka-persistence-jdbc
 - akka/akka-persistence-r2dbc
 - akka/akka-projection
