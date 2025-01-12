@@ -794,6 +794,9 @@
 - proteinevolution/Toolkit
 - pstutz/syncodia
 - pureconfig/pureconfig
+- PurpleKingdomGames/indigo
+- PurpleKingdomGames/tyrian
+- PurpleKingdomGames/ultraviolet
 - quafadas/cask-laminar
 - quafadas/dedav4s
 - quafadas/scautable
