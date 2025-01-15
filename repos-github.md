@@ -656,6 +656,7 @@
 - novakov-alexey/krb-operator2
 - nrktkt/ninny-json
 - nryanov/consul4s
+- nrinaudo/kantan.sbt
 - NthPortal/extra-predef
 - NthPortal/life-vest
 - NthPortal/reservoir
