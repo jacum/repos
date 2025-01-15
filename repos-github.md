@@ -654,9 +654,9 @@
 - note/dhallj-magnolia
 - novakov-alexey/http4s-spnego
 - novakov-alexey/krb-operator2
+- nrinaudo/kantan.sbt
 - nrktkt/ninny-json
 - nryanov/consul4s
-- nrinaudo/kantan.sbt
 - NthPortal/extra-predef
 - NthPortal/life-vest
 - NthPortal/reservoir
