@@ -213,6 +213,7 @@
 - cquiroz/scala-java-locales
 - cquiroz/scala-java-time
 - criteo/lolhttp
+- crobox/clickhouse-scala-client
 - d2a4u/meteor
 - d10xa/jadd
 - daenyth/cats-effect-guava
