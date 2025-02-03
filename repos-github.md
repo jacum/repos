@@ -206,7 +206,6 @@
 - coursier/sbt-coursier
 - coursier/sbt-shading
 - coursier/versions
-- cozydev-pink/textmogrify
 - cquiroz/kuyfi
 - cquiroz/sbt-locales
 - cquiroz/sbt-tzdb
