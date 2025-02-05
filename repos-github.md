@@ -655,7 +655,9 @@
 - novakov-alexey/http4s-spnego
 - novakov-alexey/krb-operator2
 - nrinaudo/kantan.csv
+- nrinaudo/kantan.regex
 - nrinaudo/kantan.sbt
+- nrinaudo/kantan.xpath
 - nrktkt/ninny-json
 - nryanov/consul4s
 - NthPortal/extra-predef
