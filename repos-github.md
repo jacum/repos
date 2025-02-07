@@ -199,6 +199,7 @@
 - coursier/coursier
 - coursier/coursier-channel.g8
 - coursier/dependency
+- coursier/directories-jvm
 - coursier/echo
 - coursier/interface
 - coursier/jni-utils
