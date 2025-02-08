@@ -36,11 +36,12 @@
 - alexarchambault/argonaut-shapeless
 - alexarchambault/case-app
 - alexarchambault/data-class
+- alexarchambault/is-terminal
 - alexarchambault/mill-native-image
 - alexarchambault/missing-link-cli
+- alexarchambault/native-terminal
 - alexarchambault/plotly-scala
 - alexarchambault/scalacheck-shapeless
-- alexarchambault/windows-ansi
 - AlexITC/chrome-scalajs-template
 - AlexITC/playsonify
 - AlexITC/scala-js-chrome
