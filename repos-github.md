@@ -391,7 +391,6 @@
 - hablapps/doric
 - hagay3/skuber
 - henricook/cryptoutils
-- henricook/flakefinder
 - hipjim/scala-retry
 - hnaderi/edomata
 - hoangmaihuy/mill-caliban
