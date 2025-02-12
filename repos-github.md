@@ -1232,7 +1232,6 @@
 - zio/zio-process
 - zio/zio-profiling
 - zio/zio-project-seed.g8
-- zio/zio-redis
 - zio/zio-s3
 - zio/zio-sql
 - zio/zio-sqs
