@@ -973,6 +973,7 @@
 - scodec/scodec
 - scodec/scodec-bits
 - ScoreUnder/canti-bot
+- scoutingkapelle/bamboesmanager
 - scoverage/sbt-coveralls
 - scoverage/sbt-scoverage
 - scoverage/scalac-scoverage-plugin
@@ -1185,7 +1186,6 @@
 - wiringbits/my-photo-timeline
 - wiringbits/sjs-material-ui-facade
 - wiringbits/wiringbits-webapp-utils
-- wjglerum/bamboesmanager
 - xdev-developer/gen4s
 - yadavan88/blog-code-samples
 - yadavan88/cats-effect-intro
