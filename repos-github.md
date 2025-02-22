@@ -739,6 +739,7 @@
 - playframework/playframework:3.0.x
 - playframework/play-doc
 - playframework/play-doc:2.2.x
+- playframework/play-doc:3.0.x
 - playframework/play-ebean
 - playframework/play-ebean:7.x
 - playframework/play-file-watch
