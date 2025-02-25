@@ -742,12 +742,14 @@
 - playframework/play-doc:3.0.x
 - playframework/play-ebean
 - playframework/play-ebean:7.x
+- playframework/play-ebean:8.x
 - playframework/play-file-watch
 - playframework/play-file-watch:1.2.x
 - playframework/play-file-watch:2.0.x
 - playframework/play-generated-docs
 - playframework/play-grpc
 - playframework/play-grpc:0.11.x
+- playframework/play-grpc:0.12.x
 - playframework/play-java-angular-seed
 - playframework/play-java-react-seed
 - playframework/play-java-seed.g8
@@ -772,6 +774,7 @@
 - playframework/play-slick:5.2.x
 - playframework/play-slick:5.3.x
 - playframework/play-slick:6.0.x
+- playframework/play-slick:6.1.x
 - playframework/play-soap
 - playframework/play-socket.io
 - playframework/play-webgoat
@@ -781,6 +784,7 @@
 - playframework/play-ws:3.0.x
 - playframework/scalatestplus-play
 - playframework/scalatestplus-play:6.0.x
+- playframework/scalatestplus-play:7.0.x
 - playframework/twirl
 - playframework/twirl:1.6.x
 - playframework/twirl:2.0.x
