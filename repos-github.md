@@ -1156,7 +1156,6 @@
 - VirtusLab/java-class-name
 - VirtusLab/lightweight-spark-distrib
 - VirtusLab/pekko-serialization-helper
-- VirtusLab/scalafmt-native-image
 - VirtusLab/scala-cli
 - VirtusLab/scala-cli-signing
 - VirtusLab/scala-js-cli
