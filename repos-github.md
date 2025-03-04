@@ -487,6 +487,8 @@
 - klassic/klassic
 - kmizu/jsonda
 - kmizu/matlike
+- koju/local-expats
+- koju/scheduler
 - kontainers/PureCSV
 - kovstas/fs2-throttler
 - kovszilard/twitter-server-prometheus
