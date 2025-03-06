@@ -225,6 +225,7 @@
 - dataswift/HAT2.0
 - dataunitylab/fuzzy-sets
 - dataunitylab/jsonoid-discovery
+- dataunitylab/jsonoid-server
 - data-tools/big-data-types
 - davegurnell/bridges
 - davegurnell/unindent
