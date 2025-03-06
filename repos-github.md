@@ -811,6 +811,7 @@
 - PurpleKingdomGames/indigo
 - PurpleKingdomGames/tyrian
 - PurpleKingdomGames/ultraviolet
+- PurpleKingdomGames/roguelike-starterkit
 - quafadas/cask-laminar
 - quafadas/dedav4s
 - quafadas/scautable
