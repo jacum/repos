@@ -809,9 +809,9 @@
 - pstutz/syncodia
 - pureconfig/pureconfig
 - PurpleKingdomGames/indigo
+- PurpleKingdomGames/roguelike-starterkit
 - PurpleKingdomGames/tyrian
 - PurpleKingdomGames/ultraviolet
-- PurpleKingdomGames/roguelike-starterkit
 - quafadas/cask-laminar
 - quafadas/dedav4s
 - quafadas/scautable
