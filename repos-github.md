@@ -493,9 +493,7 @@
 - kontainers/PureCSV
 - kovstas/fs2-throttler
 - kovszilard/twitter-server-prometheus
-- krestenlaust/classic-whodarr
 - krestenlaust/musicle
-- krestenlaust/qbittorrent-api-wrapper
 - kubukoz/smithy-playground
 - kubukoz/spotify-next
 - kwark/play-refined
