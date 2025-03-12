@@ -631,6 +631,7 @@
 - nafg/slick-migration-api-flyway
 - NakajoLab/B4SMT
 - naoh87/lettucef
+- nderraugh/scalajs-mill-vite-laminar-chartjs-example
 - nebula-contrib/zio-nebula
 - nemoo/play-slick3-example
 - nemoo/play-slick-synchronous-example
