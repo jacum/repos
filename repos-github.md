@@ -929,6 +929,8 @@
 - ScalaConsultants/zio-scala3-quickstart.g8
 - ScalaConsultants/zio-slick-interop
 - scalalandio/chimney
+- scalalandio/chimney-macro-commons
+- scalalandio/enumz
 - scalapb/protobuf-scala-runtime
 - scalapb/protoc-bridge
 - scalapb/ScalaPB
