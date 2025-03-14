@@ -708,6 +708,7 @@
 - Philippus/julius
 - Philippus/osita
 - Philippus/pureconfig-javanet
+- Philippus/sbt-banner
 - Philippus/sbt-dotenv
 - Philippus/sbt-jackson-version-check
 - Philippus/sbt-license-check
