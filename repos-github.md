@@ -444,6 +444,7 @@
 - jd557/rokrok
 - jd557/spaeti
 - Jelly-RDF/jelly-jvm
+- jelmerk/hnswlib-spark
 - jirihausner/zio-schema-circe
 - jirihausner/zio-schema-play-json
 - joan38/kubernetes-client
