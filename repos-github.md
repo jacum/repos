@@ -450,8 +450,6 @@
 - joan38/kubernetes-client
 - joan38/mill-git
 - joan38/mill-scalafix
-- joernio/flatgraph
-- joernio/joern
 - joesan/plant-simulator
 - johanandren/sbt-akka-version-check
 - johnspade/csv3s
@@ -1004,8 +1002,6 @@
 - SethTisue/adventofcode
 - SethTisue/Project-Euler
 - shadaj/slinky
-- ShiftLeftSecurity/codepropertygraph
-- ShiftLeftSecurity/sbt-ci-release-early
 - shopstic/chopsticks
 - sideeffffect/liquibase-doobie
 - sideeffffect/sbt-decent-scala
