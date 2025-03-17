@@ -948,6 +948,7 @@
 - scala-js/scala-js-dom
 - scala-js/scala-js-macrotask-executor
 - scala-jwt/oath
+- scala-jwt/auth4s
 - scala-native/scala-native.g8
 - scala-steward-org/mill-plugin
 - scala-steward-org/sbt-plugin
