@@ -853,7 +853,6 @@
 - RustedBones/pekko-http-avro
 - RustedBones/pekko-http-metrics
 - RustedBones/pekko-http-scalapb
-- RustedBones/pekko-http-thrift
 - RustedBones/scout
 - RustedBones/taxonomy
 - s5bug/squirrel-explorer
