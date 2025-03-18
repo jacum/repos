@@ -653,6 +653,7 @@
 - nixiesearch/nixiesearch
 - nMoncho/helenus
 - nMoncho/helenus3
+- nMoncho/sbt-dependency-check
 - NomadBlacky/scaladog
 - NomadBlacky/scala_examples
 - note/dhallj-magnolia
