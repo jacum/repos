@@ -1034,7 +1034,6 @@
 - spotify/tfreader
 - srenault/sre-api
 - stac-utils/stac4s
-- starlake-ai/starlake
 - stryker-mutator/mutation-testing-elements
 - stryker-mutator/stryker4s
 - stryker-mutator/weapon-regex
