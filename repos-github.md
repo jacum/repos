@@ -86,6 +86,7 @@
 - avast/slog4s
 - avdv/play-json-refined
 - avdv/scalals
+- AVSystem/intellij-hocon
 - AVSystem/scala-commons
 - AVSystem/scex
 - azavea/franklin
