@@ -1034,6 +1034,7 @@
 - spotify/scio-idea-plugin
 - spotify/tfreader
 - srenault/sre-api
+- sritchie/scala-rl
 - stac-utils/stac4s
 - stryker-mutator/mutation-testing-elements
 - stryker-mutator/stryker4s
