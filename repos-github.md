@@ -444,6 +444,7 @@
 - jd557/minart
 - jd557/rokrok
 - jd557/spaeti
+- Jelly-RDF/cli
 - Jelly-RDF/jelly-jvm
 - jelmerk/hnswlib-spark
 - jirihausner/zio-schema-circe
