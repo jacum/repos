@@ -662,6 +662,7 @@
 - novakov-alexey/http4s-spnego
 - novakov-alexey/krb-operator2
 - nrinaudo/kantan.csv
+- nrinaudo/kantan.codecs
 - nrinaudo/kantan.regex
 - nrinaudo/kantan.sbt
 - nrinaudo/kantan.xpath
@@ -903,6 +904,7 @@
 - sbt/sbt-gzip
 - sbt/sbt-header
 - sbt/sbt-jacoco
+- sbt/sbt-java-formatter
 - sbt/sbt-jni
 - sbt/sbt-jshint
 - sbt/sbt-js-engine
