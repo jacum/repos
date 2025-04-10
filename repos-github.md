@@ -661,8 +661,8 @@
 - note/dhallj-magnolia
 - novakov-alexey/http4s-spnego
 - novakov-alexey/krb-operator2
-- nrinaudo/kantan.csv
 - nrinaudo/kantan.codecs
+- nrinaudo/kantan.csv
 - nrinaudo/kantan.regex
 - nrinaudo/kantan.sbt
 - nrinaudo/kantan.xpath
