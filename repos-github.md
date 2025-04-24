@@ -142,7 +142,6 @@
 - carueda/tscfg
 - cb372/cats-retry
 - cb372/sbt-explicit-dependencies
-- cb372/scalacache
 - cchantep/acolyte
 - cchantep/alohura
 - cchantep/foorgol
