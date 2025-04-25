@@ -705,6 +705,7 @@
 - Philippus/gpc-tree
 - Philippus/habitat.g8
 - Philippus/julius
+- Philippus/monix-kafka-4x
 - Philippus/osita
 - Philippus/pureconfig-javanet
 - Philippus/sbt-banner
