@@ -108,7 +108,6 @@
 - betagouv/aplus
 - Billzabob/ForDeckmacia
 - bitcoin-s/bitcoin-s
-- bitlap/intellij-sbt-dependency-analyzer
 - bitlap/rolls
 - bitlap/smt
 - bitlap/validation-scala
