@@ -574,6 +574,7 @@
 - makiftutuncu/e
 - mariohuizar/stream-detector:develop
 - MartinHH/scalacheck-derived
+- MateuszKubuszok/hearth
 - matsluni/aws-spi-akka-http
 - max-leuthaeuser/SCROLL
 - mbuzdalov/data-slicer
