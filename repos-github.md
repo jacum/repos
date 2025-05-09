@@ -796,7 +796,6 @@
 - plokhotnyuk/fast-string-interpolator
 - plokhotnyuk/jsoniter-scala
 - plokhotnyuk/rtree2d
-- pme123/camundala
 - polentino/redacted
 - polyvariant/better-tostring
 - polyvariant/sttp-oauth2
