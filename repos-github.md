@@ -819,6 +819,7 @@
 - rayrobdod/string-context-parser-combinator
 - rcmartins/blinky
 - reactivecore/kreuzberg
+- reactivecore/usql
 - ReactiveMongo/Play-ReactiveMongo
 - ReactiveMongo/ReactiveMongo
 - ReactiveMongo/ReactiveMongo-BSON
