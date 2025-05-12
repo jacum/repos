@@ -131,6 +131,8 @@
 - buntec/scala-js-snabbdom
 - Bunyod/PracticalFPinScala
 - butcherless/incubator
+- business4s/workflows4s
+- business4s/decisions4s
 - butcherless/scala
 - butcherless/tapir-learn
 - carlosedp/mill-aliases
