@@ -130,9 +130,9 @@
 - buntec/ff4s
 - buntec/scala-js-snabbdom
 - Bunyod/PracticalFPinScala
-- butcherless/incubator
-- business4s/workflows4s
 - business4s/decisions4s
+- business4s/workflows4s
+- butcherless/incubator
 - butcherless/scala
 - butcherless/tapir-learn
 - carlosedp/mill-aliases
