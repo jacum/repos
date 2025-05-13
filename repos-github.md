@@ -102,9 +102,6 @@
 - bbarker/diz
 - bcarter97/id-generator
 - benkio/sBots
-- benthecarman/OP-RETURN-Bot
-- benthecarman/scalastr
-- benthecarman/translnd
 - betagouv/aplus
 - Billzabob/ForDeckmacia
 - bitcoin-s/bitcoin-s
