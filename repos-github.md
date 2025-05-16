@@ -402,9 +402,6 @@
 - holdenk/spark-upgrade
 - hrj/abandon
 - hugo-vrijswijk/tgtg
-- IBM/diesel-core
-- IBM/diesel-i18n
-- IBM/diesel-json
 - Idealiste-cz/ideal-voting-backend
 - igor-vovk/cats-effect-simple-di
 - igor-vovk/connect-rpc-scala
