@@ -442,6 +442,7 @@
 - Jelly-RDF/jelly-jvm
 - jelmerk/hnswlib-spark
 - jirihausner/zio-schema-circe
+- jirihausner/zio-schema-jsoniter
 - jirihausner/zio-schema-play-json
 - joan38/kubernetes-client
 - joan38/mill-git
