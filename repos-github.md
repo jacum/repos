@@ -795,6 +795,7 @@
 - plokhotnyuk/rtree2d
 - polentino/redacted
 - polyvariant/better-tostring
+- polyvariant/smithy4s-bsp
 - polyvariant/sttp-oauth2
 - ppurang/abctemplates
 - ppurang/asynch
