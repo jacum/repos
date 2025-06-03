@@ -187,7 +187,6 @@
 - com-lihaoyi/sourcecode
 - com-lihaoyi/upickle
 - com-lihaoyi/utest
-- Constellation-Labs/tessellation
 - cornerman/chameleon
 - cornerman/colibri
 - cornerman/mycelium
