@@ -492,8 +492,8 @@
 - kubukoz/calico-template
 - kubukoz/smithy-playground
 - kubukoz/smithy-transcoder
-- kubukoz/stretch-the-kin
 - kubukoz/spotify-next
+- kubukoz/stretch-the-kin
 - kwark/play-refined
 - kwark/slick-refined
 - lachezar/zio-scala-3-project.g8
