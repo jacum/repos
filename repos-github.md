@@ -489,7 +489,10 @@
 - kovstas/fs2-throttler
 - kovszilard/twitter-server-prometheus
 - krestenlaust/musicle
+- kubukoz/calico-template
 - kubukoz/smithy-playground
+- kubukoz/smithy-transcoder
+- kubukoz/stretch-the-kin
 - kubukoz/spotify-next
 - kwark/play-refined
 - kwark/slick-refined
