@@ -1217,6 +1217,7 @@
 - yoshiyoshifujii/sbt-jig
 - yurique/embedded-files
 - yurizhuravel/kitty
+- yurizhuravel/simple-royalties-api
 - zainab-ali/aquascape
 - zeal18/zio-mongodb
 - zengularity/benji
