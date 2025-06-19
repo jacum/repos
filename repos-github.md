@@ -248,6 +248,7 @@
 - dragonfly-ai/mesh
 - dragonfly-ai/narr
 - dragonfly-ai/slash
+- dragonfly-ai/spatial
 - dvgica/healthful
 - dvgica/managerial
 - dvgica/periodic
