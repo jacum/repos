@@ -1236,7 +1236,6 @@
 - zio/zio-dynamodb
 - zio/zio-flow
 - zio/zio-ftp
-- zio/zio-json
 - zio/zio-keeper
 - zio/zio-lambda
 - zio/zio-logging
