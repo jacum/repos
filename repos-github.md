@@ -776,6 +776,7 @@
 - playframework/play-scala-seed.g8:2.9.x
 - playframework/play-silhouette
 - playframework/play-silhouette:9.x
+- playframework/play-silhouette:10.x
 - playframework/play-slick
 - playframework/play-slick:5.4.x
 - playframework/play-slick:6.2.x
