@@ -491,9 +491,9 @@
 - kovszilard/twitter-server-prometheus
 - krestenlaust/musicle
 - kubukoz/calico-template
+- kubukoz/smithy4s-codegen-ui
 - kubukoz/smithy-playground
 - kubukoz/smithy-transcoder
-- kubukoz/smithy4s-codegen-ui
 - kubukoz/spotify-next
 - kubukoz/stretch-the-kin
 - kwark/play-refined
