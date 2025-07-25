@@ -60,6 +60,7 @@
 - andyglow/websocket-scala-client
 - ant8e/sbt-i18n
 - ant8e/uuid4cats-effect
+- anymindgroup/zio-gcp
 - anymindgroup/zio-pubsub
 - an-tex/sc8s
 - apache/daffodil
