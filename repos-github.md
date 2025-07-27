@@ -68,6 +68,7 @@
 - apache/incubator-nlpcraft
 - apalache-mc/apalache
 - apimorphism/telegramium
+- arainko/chanterelle
 - arainko/ducktape
 - arktwin/arktwin
 - asachdeva/cats-sandbox
