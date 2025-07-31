@@ -704,7 +704,7 @@
 - Philippus/bump
 - Philippus/elastic4s
 - Philippus/elastic4s:series/7.x
-- Philippus/elastic4s:series/9.x
+- Philippus/elastic4s:series/8.x
 - Philippus/emoji-clock
 - Philippus/gpc-tree
 - Philippus/habitat.g8
