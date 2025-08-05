@@ -597,6 +597,7 @@
 - michaelmior/eson-mining
 - michaelmior/eson-scala
 - miciek/grokkingfp-examples
+- mikybars/openapi-generator-mill-plugin
 - milessabin/shapeless
 - mkurz/deadbolt-2-java
 - mkurz/deadbolt-2-java:2.9.x
