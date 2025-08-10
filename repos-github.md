@@ -846,6 +846,7 @@
 - rintcius/scala-steward-ping
 - rlemaitre/pillars
 - rolang/dumbo
+- rom1dep/scalafx-millproject
 - rosvit/swim-report
 - routis/dmmf-scala
 - rtimush/sbt-rewarn
