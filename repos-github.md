@@ -905,6 +905,7 @@
 - sbt/sbt-gzip
 - sbt/sbt-header
 - sbt/sbt-jacoco
+- sbt/sbt-javaagent
 - sbt/sbt-java-formatter
 - sbt/sbt-jni
 - sbt/sbt-jshint
