@@ -1031,6 +1031,7 @@
 - slick/slick-testkit-example
 - sloshy/fs2-es
 - soundcloud/twinagle
+- sovedus/fs2-http-proxy
 - spotify/big-data-rosetta-code
 - spotify/elitzur
 - spotify/featran
