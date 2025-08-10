@@ -1033,6 +1033,7 @@
 - sloshy/fs2-es
 - soundcloud/twinagle
 - sovedus/fs2-http-proxy
+- sovedus/fs2-socks5
 - spotify/big-data-rosetta-code
 - spotify/elitzur
 - spotify/featran
