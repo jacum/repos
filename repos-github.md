@@ -310,8 +310,10 @@
 - evolution-gaming/kafka-flow
 - evolution-gaming/kafka-journal
 - evolution-gaming/kafka-launcher
+- evolution-gaming/pekko-extension
 - evolution-gaming/pubsub
 - evolution-gaming/random
+- evolution-gaming/resource-pool
 - evolution-gaming/retry
 - evolution-gaming/safe-akka
 - evolution-gaming/scache
