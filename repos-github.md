@@ -1262,7 +1262,6 @@
 - zio/zio-s3
 - zio/zio-sql
 - zio/zio-sqs
-- zio/zio-telemetry
 - zio/zio-test-intellij
 - ZookLabs/zooklabs
 - zouzias/spark-hello-world
