@@ -218,6 +218,7 @@
 - d2a4u/meteor
 - d10xa/jadd
 - daenyth/cats-effect-guava
+- dancewithheart/zio-scala3-quickstart.g8
 - danieletorelli/loan-cashflows-api
 - dapperware/zio-slack
 - datadog4s/datadog4s
