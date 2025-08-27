@@ -531,8 +531,6 @@
 - lefou/mill-vcs-version
 - LEGO/woof
 - leigh-perry/metamorphosis
-- lemastero/scala_typeclassopedia
-- lemastero/Triglav
 - lensesio/stream-reactor
 - leobenkel/Laeta
 - leobenkel/Soteria
