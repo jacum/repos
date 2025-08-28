@@ -253,6 +253,7 @@
 - dragonfly-ai/narr
 - dragonfly-ai/slash
 - dragonfly-ai/spatial
+- dragonfly-ai/uriel
 - dvgica/healthful
 - dvgica/managerial
 - dvgica/periodic
