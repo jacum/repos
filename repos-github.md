@@ -385,6 +385,7 @@
 - ghostdogpr/caliban
 - gnieh/diffson
 - gnieh/fs2-data
+- goodcover/fdb-client
 - goodcover/scala-relay
 - goodcover/tagless-redux
 - grouzen/zio-apache-arrow
