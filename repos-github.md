@@ -396,6 +396,7 @@
 - guardrail-dev/sbt-guardrail
 - gumdrop/quizleague
 - hablapps/doric
+- halotukozak/alpaca
 - hagay3/skuber
 - henricook/cryptoutils
 - hipjim/scala-retry
