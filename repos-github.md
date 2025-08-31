@@ -286,7 +286,6 @@
 - endpoints4s/endpoints4s
 - enlivensystems/invoicing-hungarian
 - enriquerodbe/borsh4s
-- erikerlandson/coulomb:scala2
 - erikerlandson/coulomb:scala3
 - erikvanoosten/metrics-scala
 - esamson/atbp
