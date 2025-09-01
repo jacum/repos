@@ -521,6 +521,7 @@
 - laserdisc-io/zio-oci-objectstorage
 - lasp/hapi-server
 - latis-data/latis3
+- latis-data/logviz
 - leanovate/play-mockws
 - lefou/mill-aspectj
 - lefou/mill-integrationtest
