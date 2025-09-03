@@ -292,9 +292,9 @@
 - esamson/better-xdg
 - esamson/remder
 - etorreborre/specs2
+- etorreborre/specs2-cats
 - etorreborre/specs2:specs2-4.x-maintenance
 - etorreborre/specs2:specs2-cross
-- etorreborre/specs2-cats
 - etorres/lambda4s-demo
 - etorres/markdown-transformation-kata-scala
 - etorres/train-station
