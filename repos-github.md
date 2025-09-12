@@ -366,7 +366,6 @@
 - fthomas/base.g8
 - fthomas/fs2-cron
 - fthomas/refined
-- fthomas/status-page
 - ft-scalac/zio-dynamodb-scala3-quickstart.g8
 - fullfacing/keycloak4s
 - fun-stack/example
