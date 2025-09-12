@@ -1252,7 +1252,6 @@
 - zio/zio-akka-cluster
 - zio/zio-amqp
 - zio/zio-bson
-- zio/zio-config
 - zio/zio-crypto
 - zio/zio-dynamodb
 - zio/zio-flow
