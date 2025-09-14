@@ -608,6 +608,15 @@
 - mkurz/deadbolt-2-java:2.9.x
 - mkurz/deadbolt-2-scala
 - mkurz/deadbolt-2-scala:2.9.x
+- mobilemindtech/scjsx
+- mobilemindtech/vigilo
+- mobilemindtech/mysql4s
+- mobilemindtech/via
+- mobilemindtech/fast4s
+- mobilemindtech/scalajs-livereload
+- mobilemindtech/decoda
+- mobilemindtech/cloud4s
+- mobilemindtech/gogs-kaban
 - mobimeo/fs2-gtfs
 - mockito/mockito-scala
 - molarmanful/sclin
