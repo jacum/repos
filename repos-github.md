@@ -347,7 +347,6 @@
 - felher/sainte-lague
 - felher/scalajs-only.g8
 - finagle/finagle-mysql-shapes
-- finagle/finch
 - finos/morphir
 - finos/morphir-jvm
 - finos/morphir-scala
