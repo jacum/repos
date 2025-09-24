@@ -646,6 +646,7 @@
 - IronCoreLabs/recrypt
 - ITV/quartz4s
 - jacum/akka-sensors
+- jacum/pekko-sensors
 - janstenpickle/graal-kafka-client
 - janstenpickle/hotswap-ref
 - japgolly/clear-config
